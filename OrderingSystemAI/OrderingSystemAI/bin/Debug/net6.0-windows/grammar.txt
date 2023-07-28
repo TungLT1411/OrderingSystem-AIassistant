@@ -1,0 +1,10 @@
+Start Ordering
+Snack
+Pizza
+Soft Drink
+Coffee
+Fries Small
+Continue
+Finish
+Yes
+No

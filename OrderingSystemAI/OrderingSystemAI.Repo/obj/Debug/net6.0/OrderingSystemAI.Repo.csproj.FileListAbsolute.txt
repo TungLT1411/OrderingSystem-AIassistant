@@ -1,0 +1,28 @@
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.deps.json
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.runtimeconfig.json
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.pdb
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.AssemblyReference.cache
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfoInputs.cache
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfo.cs
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\refint\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.pdb
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.genruntimeconfig.cache
+C:\Users\ROG\Documents\FPT University\Summer2023 - PRN\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\ref\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.deps.json
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.runtimeconfig.json
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.pdb
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.AssemblyReference.cache
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfoInputs.cache
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfo.cs
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\refint\OrderingSystemAI.Repo.dll
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.pdb
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.genruntimeconfig.cache
+C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\ref\OrderingSystemAI.Repo.dll
