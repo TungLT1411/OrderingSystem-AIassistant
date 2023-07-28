@@ -26,3 +26,17 @@ C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\Orderi
 C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.pdb
 C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.genruntimeconfig.cache
 C:\Users\ROG\Documents\GitHub\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\ref\OrderingSystemAI.Repo.dll
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.deps.json
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.runtimeconfig.json
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.dll
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\bin\Debug\net6.0\OrderingSystemAI.Repo.pdb
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.AssemblyReference.cache
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfoInputs.cache
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.AssemblyInfo.cs
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.csproj.CoreCompileInputs.cache
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.dll
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\refint\OrderingSystemAI.Repo.dll
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.pdb
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\OrderingSystemAI.Repo.genruntimeconfig.cache
+E:\FPT\3rd Year\PRN211\Assignments\OrderingSystem-AIassistant\OrderingSystem-AIassistant\OrderingSystemAI\OrderingSystemAI.Repo\obj\Debug\net6.0\ref\OrderingSystemAI.Repo.dll

@@ -78,6 +78,12 @@ namespace OrderingSystemAI
                 this.Close();
                 softDrinkcs.Show();
             }
+            if (result == "Coffee")
+            {
+                this.Close();
+                Coffee coffee = new Coffee();
+                coffee.Show();
+            }
             else if (result == "ALLAH")
             {
 

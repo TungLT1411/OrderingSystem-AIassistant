@@ -3511,19 +3511,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ROG\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROG\\Documents\\GitHub\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\OrderingSystemAI.Repo.csproj",
+      "projectUniqueName": "E:\\FPT\\3rd Year\\PRN211\\Assignments\\OrderingSystem-AIassistant\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\OrderingSystemAI.Repo.csproj",
       "projectName": "OrderingSystemAI.Repo",
-      "projectPath": "C:\\Users\\ROG\\Documents\\GitHub\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\OrderingSystemAI.Repo.csproj",
-      "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROG\\Documents\\GitHub\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\obj\\",
+      "projectPath": "E:\\FPT\\3rd Year\\PRN211\\Assignments\\OrderingSystem-AIassistant\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\OrderingSystemAI.Repo.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\FPT\\3rd Year\\PRN211\\Assignments\\OrderingSystem-AIassistant\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI.Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

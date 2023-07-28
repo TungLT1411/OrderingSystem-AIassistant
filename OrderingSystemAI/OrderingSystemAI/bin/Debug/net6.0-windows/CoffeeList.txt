@@ -1,0 +1,6 @@
+Americano
+Cappuccino
+Espresso
+Milk Coffee
+Black Coffee
+White Coffee

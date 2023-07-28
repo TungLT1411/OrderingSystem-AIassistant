@@ -117,7 +117,7 @@ namespace OrderingSystemAI
         private void SendDataToGoogleSheet(int id)
         {
             var currentBill = _billRepo.ListBillById(SubOrderDTO.Instance.BillId);
-            string credentialsFilePath = "C:\\Users\\ROG\\Documents\\GitHub\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI\\sheetapi.json";
+            string credentialsFilePath = "E:\\FPT\\3rd Year\\PRN211\\Assignments\\OrderingSystem-AIassistant\\OrderingSystem-AIassistant\\OrderingSystemAI\\OrderingSystemAI\\sheetapi.json";
             string spreadsheetId = "1oknCkKhxuh7YVC7CcTQIMJZLtAlDa5yrnVLk9p5Tn-A";
             string sheetName = "PRN211";
             string[] Scopes = { SheetsService.Scope.Spreadsheets };

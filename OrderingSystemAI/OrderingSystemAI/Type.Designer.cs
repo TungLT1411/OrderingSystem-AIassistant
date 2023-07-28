@@ -100,9 +100,9 @@
             btnCoca.Font = new Font("Microsoft Sans Serif", 18F, FontStyle.Bold, GraphicsUnit.Point);
             btnCoca.Location = new Point(50, 265);
             btnCoca.Name = "btnCoca";
-            btnCoca.Size = new Size(88, 36);
+            btnCoca.Size = new Size(156, 36);
             btnCoca.TabIndex = 1;
-            btnCoca.Text = "Coca";
+            btnCoca.Text = "Soft Drink";
             // 
             // label2
             // 

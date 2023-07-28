@@ -51,7 +51,7 @@ namespace OrderingSystemAI
             reader.Dispose();
             reader = new SpeechSynthesizer();
             reader.SelectVoiceByHints(VoiceGender.Female);
-            reader.SpeakAsync("You have to order " + SubOrderDTO.Instance.Quantity.ToString() + " " + SubOrderDTO.Instance.FoodName
+            reader.SpeakAsync("You have ordered " + SubOrderDTO.Instance.Quantity.ToString() + " " + SubOrderDTO.Instance.FoodName
                + " Successfully");
             reader.SpeakAsync("    Do you want to continue order or Finish order?");
         }
@@ -121,7 +121,7 @@ namespace OrderingSystemAI
         private void AskContinue_Load(object sender, EventArgs e)
         {
             textBox1.Multiline = true;
-            textBox1.Text = "You have to order " + SubOrderDTO.Instance.Quantity.ToString() + " " + SubOrderDTO.Instance.FoodName
+            textBox1.Text = "You have ordered " + SubOrderDTO.Instance.Quantity.ToString() + " " + SubOrderDTO.Instance.FoodName
                 + "      Price:        " + SubOrderDTO.Instance.FoodPrice.ToString() + "   Successfully";
             pictureBox1.Image = Image.FromFile(SubOrderDTO.Instance.ImagePathh);
         }
